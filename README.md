@@ -1,16 +1,3 @@
-# groceries
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Groceries
+Manage your day-to-day list of grocery items.
+![Picsart_23-08-20_20-58-00-988](https://github.com/ShriyanshJn/groceries/assets/107237771/d7dd60d2-5376-4cf4-bbd6-9a68d8892d4e)
